@@ -3,7 +3,7 @@ import { Drawer, List, ListItem, ListItemIcon, ListItemText, IconButton, Divider
 import { useNavigate } from 'react-router-dom';
 import CloseIcon from '@mui/icons-material/Close';
 import DashboardIcon from '@mui/icons-material/Dashboard';
-import CodeIcon from '@mui/icons-material/code';
+import CodeIcon from '@mui/icons-material/Code';
 import DesignServicesIcon from '@mui/icons-material/DesignServices';
 import SchoolIcon from '@mui/icons-material/School';
 import QuestionAnswerIcon from '@mui/icons-material/QuestionAnswer';
