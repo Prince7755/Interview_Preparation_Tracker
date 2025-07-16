@@ -3,7 +3,7 @@ import {
   Container, Typography, Grid, Card, CardActionArea, CardContent, Box, Avatar, Divider
 } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
-import CodeIcon from '@mui/icons-material/code';
+import CodeIcon from '@mui/icons-material/Code';
 import DesignServicesIcon from '@mui/icons-material/DesignServices';
 import SchoolIcon from '@mui/icons-material/School';
 import QuestionAnswerIcon from '@mui/icons-material/QuestionAnswer';
