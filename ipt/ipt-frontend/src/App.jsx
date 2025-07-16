@@ -9,7 +9,7 @@ import EditQuestion from './pages/EditQuestion';
 import { AuthContext } from './context/AuthContext';
 import Profile from './pages/Profile';
 import SystemDesignPage from './pages/SystemDesignPage';
-import DSATracker from './pages/DSATRacker';
+import DSATracker from './pages/DSATracker';
 import AddSystemDesign from './pages/AddSystemDesign';
 import EditSystemDesign from './pages/EditSystemDesign';
 import CSFundamentalsPage from './pages/CSFundamentalsPage';
